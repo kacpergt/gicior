@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+.env
+venv/
+.venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Test coverage
+htmlcov/
+.coverage
